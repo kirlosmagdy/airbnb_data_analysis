@@ -1,3 +1,4 @@
+
 # 🗽 New York City Airbnb Market Analysis (2019)
 
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
@@ -9,7 +10,7 @@
 > An end-to-end data analysis project: from raw listings data to a cleaned dataset, exploratory analysis, an interactive Power BI dashboard, and business recommendations for the NYC short-term rental market.
 
 <!-- Replace the path below with your dashboard overview screenshot -->
-![Dashboard Overview](images/dashboard_overview.png)
+<img width="967" height="545" alt="overview" src="https://github.com/user-attachments/assets/2c375907-c1a0-44e8-897c-ddf55d16570c" />
 
 ---
 
