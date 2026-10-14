@@ -8,9 +8,6 @@
 
 > An end-to-end data analysis project: from raw listings data to a cleaned dataset, exploratory analysis, an interactive Power BI dashboard, and business recommendations for the NYC short-term rental market.
 
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/2c375907-c1a0-44e8-897c-ddf55d16570c" alt="Dashboard overview" width="100%">
-</p>
 
 ---
 
