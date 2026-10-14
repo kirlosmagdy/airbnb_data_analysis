@@ -1,4 +1,3 @@
-
 # 🗽 New York City Airbnb Market Analysis (2019)
 
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
@@ -9,8 +8,9 @@
 
 > An end-to-end data analysis project: from raw listings data to a cleaned dataset, exploratory analysis, an interactive Power BI dashboard, and business recommendations for the NYC short-term rental market.
 
-<!-- Replace the path below with your dashboard overview screenshot -->
-<img width="967" height="545" alt="overview" src="https://github.com/user-attachments/assets/2c375907-c1a0-44e8-897c-ddf55d16570c" />
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/2c375907-c1a0-44e8-897c-ddf55d16570c" alt="Dashboard overview" width="100%">
+</p>
 
 ---
 
@@ -120,20 +120,31 @@ The notebook ([`airbnb_data_analysis_code.ipynb`](airbnb_data_analysis_code.ipyn
 
 Built in Power BI: [`Airbnb Dashboard.pbix`](Airbnb%20Dashboard.pbix) (open with Power BI Desktop).
 
-| Page | What it shows |
-|---|---|
-| **Market Overview** | KPI cards (total listings, unique hosts, median price, reviews per month, availability), listing map, room-type mix, listings and median price by borough |
-| **Pricing & Guest Demand** | Price by borough and room type, top 10 neighborhoods by price and by volume, price vs review activity scatter, reviews by price tier |
-| **Hosts, Availability & Activity** | Host portfolio size, top host names, availability levels, reviews by stay length, listings by year of last review, borough × room type matrix |
-
 **Interactivity:** slicers for borough, room type, price tier, minimum stay, and host portfolio size, synced across pages, plus a reset button and cross-filtering between charts.
 
-<!-- Replace with your screenshots (create an /images folder) -->
-| Overview | Pricing & Demand | Hosts & Availability |
-|---|---|---|
-|<img width="967" height="545" alt="overview" src="https://github.com/user-attachments/assets/18fa2eca-39ac-40c4-af7e-57c6ee380c9b" />|
-| <img width="962" height="540" alt="host, availability and activity " src="https://github.com/user-attachments/assets/b8d09d82-bb0c-4ee3-9ebd-ab232502a64e" />|
-|<img width="960" height="541" alt="pricing and performance" src="https://github.com/user-attachments/assets/1f6a1ff8-d070-4e32-bd45-921a70a3aec4" />|
+### 1️⃣ Market Overview
+
+KPI cards (total listings, unique hosts, median price, reviews per month, availability), a listing map, room-type mix, and listings and median price by borough.
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/18fa2eca-39ac-40c4-af7e-57c6ee380c9b" alt="Market Overview page" width="100%">
+</p>
+
+### 2️⃣ Pricing & Guest Demand
+
+Price by borough and room type, top 10 neighborhoods by price and by volume, price vs review activity scatter, and reviews by price tier.
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/1f6a1ff8-d070-4e32-bd45-921a70a3aec4" alt="Pricing and Guest Demand page" width="100%">
+</p>
+
+### 3️⃣ Hosts, Availability & Activity
+
+Host portfolio size, top host names, availability levels, reviews by stay length, listings by year of last review, and a borough × room type matrix.
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/b8d09d82-bb0c-4ee3-9ebd-ab232502a64e" alt="Hosts, Availability and Activity page" width="100%">
+</p>
 
 ---
 
@@ -181,7 +192,6 @@ airbnb_data_analysis/
 ├── Data_Files/                       # Dataset files used in the project
 ├── airbnb_data_analysis_code.ipynb   # Cleaning, EDA, and analysis notebook
 ├── Airbnb Dashboard.pbix             # Interactive Power BI dashboard
-├── images/                           # Dashboard and chart screenshots
 └── README.md
 ```
 
