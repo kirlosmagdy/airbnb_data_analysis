@@ -131,8 +131,7 @@ Built in Power BI: [`Airbnb Dashboard.pbix`](Airbnb%20Dashboard.pbix) (open with
 <!-- Replace with your screenshots (create an /images folder) -->
 | Overview | Pricing & Demand | Hosts & Availability |
 |---|---|---|
-| <img width="967" height="545" alt="overview" src="https://github.com/user-attachments/assets/18fa2eca-39ac-40c4-af7e-57c6ee380c9b" />
-                                                                                                                                                           | <img width="960" height="541" alt="pricing and performance" src="https://github.com/user-attachments/assets/1f6a1ff8-d070-4e32-bd45-921a70a3aec4" />
+| <img width="967" height="545" alt="overview" src="https://github.com/user-attachments/assets/18fa2eca-39ac-40c4-af7e-57c6ee380c9b" />| |<img width="960" height="541" alt="pricing and performance" src="https://github.com/user-attachments/assets/1f6a1ff8-d070-4e32-bd45-921a70a3aec4" /> |
  | <img width="962" height="540" alt="host, availability and activity " src="https://github.com/user-attachments/assets/b8d09d82-bb0c-4ee3-9ebd-ab232502a64e" />
 |
 
